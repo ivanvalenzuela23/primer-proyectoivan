@@ -1,0 +1,130 @@
+.grid    {
+   
+    grid-template-columns: 200% 30% 30% ;
+    gap :5em; 
+}
+div.principal  {
+    background: rgb(80, 255, 147);
+    padding: 3em;
+
+}
+div.rectangulo1 {
+    background: violet;
+    padding: 1em;
+    height: 60px;
+    width: 400px;
+    
+}
+
+div.rectangulo2 {
+    background: #571957;
+    padding: 1em;
+    height: 60px;
+    width: 400px;
+}
+/*****contacto1****/
+div.rectangulo3 {
+    background: #735bb6;
+    padding: 1em;
+    height: 60px;
+    width: 400px;
+}
+
+.rectangulo3 > .imagen1{
+    height: 50px;
+    border-radius: 1000%;
+
+}
+
+/*****contacto2****/
+
+div.rectangulo4 {
+    background: #ca3d3d;
+    padding: 1em;
+    height: 60px;
+    width: 400px;
+}
+
+.rectangulo4 >.imagen2  {
+
+    height: 50px;
+    border-radius: 1000%;
+
+}
+
+/*****contacto3****/
+
+div.rectangulo5 {
+    background: #73e0c5;
+    padding: 1em;
+    height: 60px;
+    width: 400px;
+}
+
+.rectangulo5 >.imagen3  {
+
+    height: 50px;
+    border-radius: 1000%;
+
+}
+
+/*****contacto4****/
+
+div.rectangulo6 {
+    background: #ac6727;
+    padding: 1em;
+    height: 60px;
+    width: 400px;
+}
+.rectangulo6 >.imagen4  {
+
+    height: 50px;
+    border-radius: 1000%;
+
+}
+
+/*****contacto5****/
+
+div.rectangulo7 {
+    background: hsl(71, 57%, 51%);
+    padding: 1em;
+    height: 60px;
+    width: 400px;
+}
+.rectangulo7 >.imagen5  {
+
+    height: 50px;
+    border-radius: 1000%;
+
+}
+
+/*****contacto6****/
+
+div.rectangulo8 {
+    background: hsl(175, 63%, 45%);
+    padding: 1em;
+    height: 60px;
+    width: 400px;
+}
+.rectangulo8 >.imagen6  {
+
+    height: 50px;
+    border-radius: 1000%;
+
+}
+/*****contacto7****/
+
+div.rectangulo9 {
+    background: #ac6727;
+    padding: 1em;
+    height: 60px;
+    width: 400px;
+}
+
+
+
+
+
+div.hover {
+    border: 1px solid yellow;
+}
