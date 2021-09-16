@@ -35,7 +35,7 @@
     background-color: rgb(30, 210, 60);
     width: 100px;
     margin: 2px;
-    text-align: center;
+    
     line-height: 75px;
     font-size: 30px;
     border: 2px solid black;
@@ -50,3 +50,30 @@
     border: 2px solid black;
 }
 
+ .imagen1  {
+    height: 60px;
+    border-radius: 1000%;
+    
+    
+}
+ .imagen2{height: 60px;
+    border-radius: 1000%;
+    
+    
+ }
+
+ .imagen3{
+    height: 60px;
+    border-radius: 1000%;
+
+ }
+ .imagen4{height: 60px;
+    border-radius: 1000%;
+    
+    
+ }
+ .imagen5{height: 60px;
+    border-radius: 1000%;
+    
+    
+ }
